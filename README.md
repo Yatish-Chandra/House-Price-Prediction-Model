@@ -17,8 +17,8 @@ Dataset contains 7 columns and 5000 rows with CSV extension. The data contains t
 ### Regression Evaluation Metrics
 Here are three common evaluation metrics for regression problems:
 
-Mean Absolute Error (MAE) is the mean of the absolute value of the errors.
-Mean Squared Error (MSE) is the mean of the squared errors.
-Root Mean Squared Error (RMSE) is the square root of the mean of the squared errors.
+- Mean Absolute Error (MAE) is the mean of the absolute value of the errors.
+- Mean Squared Error (MSE) is the mean of the squared errors.
+- Root Mean Squared Error (RMSE) is the square root of the mean of the squared errors.
 
 All of these are loss functions because we want to minimize them.
